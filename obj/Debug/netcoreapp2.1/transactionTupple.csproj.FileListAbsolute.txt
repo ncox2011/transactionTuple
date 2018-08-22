@@ -1,0 +1,11 @@
+C:\Users\natas\workspace\csharp\exercises\transactionTupple\bin\Debug\netcoreapp2.1\transactionTupple.deps.json
+C:\Users\natas\workspace\csharp\exercises\transactionTupple\bin\Debug\netcoreapp2.1\transactionTupple.runtimeconfig.json
+C:\Users\natas\workspace\csharp\exercises\transactionTupple\bin\Debug\netcoreapp2.1\transactionTupple.runtimeconfig.dev.json
+C:\Users\natas\workspace\csharp\exercises\transactionTupple\bin\Debug\netcoreapp2.1\transactionTupple.dll
+C:\Users\natas\workspace\csharp\exercises\transactionTupple\bin\Debug\netcoreapp2.1\transactionTupple.pdb
+C:\Users\natas\workspace\csharp\exercises\transactionTupple\obj\Debug\netcoreapp2.1\transactionTupple.csprojAssemblyReference.cache
+C:\Users\natas\workspace\csharp\exercises\transactionTupple\obj\Debug\netcoreapp2.1\transactionTupple.csproj.CoreCompileInputs.cache
+C:\Users\natas\workspace\csharp\exercises\transactionTupple\obj\Debug\netcoreapp2.1\transactionTupple.AssemblyInfoInputs.cache
+C:\Users\natas\workspace\csharp\exercises\transactionTupple\obj\Debug\netcoreapp2.1\transactionTupple.AssemblyInfo.cs
+C:\Users\natas\workspace\csharp\exercises\transactionTupple\obj\Debug\netcoreapp2.1\transactionTupple.dll
+C:\Users\natas\workspace\csharp\exercises\transactionTupple\obj\Debug\netcoreapp2.1\transactionTupple.pdb
